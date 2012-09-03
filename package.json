@@ -1,0 +1,18 @@
+{
+  "name": "joinBuffers",
+  "version": "0.1.0",
+  "description": "joins an array of buffers to one big buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "https://github.com/Bonuspunkt/joinBuffers.git",
+  "bugs": "https://github.com/Bonuspunkt/joinBuffers/issues",
+  "keywords": [
+    "join",
+    "buffer",
+    "buffers"
+  ],
+  "author": "Bonuspunkt",
+  "license": "Beerware"
+}
