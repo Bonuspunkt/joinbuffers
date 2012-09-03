@@ -3,7 +3,7 @@ takes an array of small buffers and copies them into a single big one
 
 ## example
 
-    var joinBuffers = require('joinBuffers')
+    var joinBuffers = require('joinbuffers')
     var smallBuffers = [new Buffer('1'), new Buffer('2')];
     var bigBuffer = joinBuffers(smallBuffers);
     console.log(bigBuffer.toString('utf8')); // prints 12
