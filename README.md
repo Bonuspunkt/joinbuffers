@@ -1,5 +1,8 @@
-#joinBuffers
+#joinBuffers [![Build Status](https://secure.travis-ci.org/Bonuspunkt/joinbuffers.png)](http://travis-ci.org/Bonuspunkt/joinbuffers)
 takes an array of small buffers and copies them into a single big one
+
+##installation
+    npm install joinbuffers
 
 ## example
 
@@ -8,10 +11,5 @@ takes an array of small buffers and copies them into a single big one
     var bigBuffer = joinBuffers(smallBuffers);
     console.log(bigBuffer.toString('utf8')); // prints 12
 
-## licence
-    * ----------------------------------------------------------------------------
-    * "THE BEER-WARE LICENSE" (Revision 42):
-    * <bonuspunkt@gmail.com> wrote this file. As long as you retain this notice you
-    * can do whatever you want with this stuff. If we meet some day, and you think
-    * this stuff is worth it, you can buy me a beer in return.
-    * ----------------------------------------------------------------------------
+## license
+public domain

@@ -1,6 +1,6 @@
 {
   "name": "joinbuffers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "joins an array of buffers to one big buffer",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,5 @@
     "buffers"
   ],
   "author": "Bonuspunkt",
-  "license": "Beerware"
+  "license": "public domain"
 }
