@@ -1,4 +1,6 @@
 #joinBuffers [![Build Status](https://secure.travis-ci.org/Bonuspunkt/joinbuffers.png)](http://travis-ci.org/Bonuspunkt/joinbuffers)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Bonuspunkt/joinbuffers.svg)](https://greenkeeper.io/)
 takes an array of small buffers and copies them into a single big one
 
 ##installation
